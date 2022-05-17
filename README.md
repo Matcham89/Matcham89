@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matcham89
-- 👀 I’m interested in JavaScirpt
-- 🌱 I’m currently learning JavaScirpt
-- 💞️ I’m looking to collaborate on JavaScirpt
+- 👀 I’m interested in K8s
+- 🌱 I’m currently learning Terraform
 - 📫 How to reach me email
 
 <!---
