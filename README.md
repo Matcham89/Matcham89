@@ -1,9 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/Matcham89/count.svg)
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World;I'm+Chris%2C+a+Cloud+Enthusiast" width="70%" />
-
-
 [![My Skills](https://skillicons.dev/icons?i=bash,gcp,git,grafana,kubernetes,terraform,vscode)](https://skillicons.dev)
 
 
