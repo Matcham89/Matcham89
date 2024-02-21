@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/Matcham89/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Matcham89/count.svg)  ![pompo-the-cinephile-typing-fast (1)](https://github.com/Matcham89/Matcham89/assets/87593715/4b4fc0df-fc20-4e4d-989e-62bceb573020)
 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,gcp,git,grafana,kubernetes,terraform,vscode)](https://skillicons.dev)
@@ -39,5 +39,5 @@ Feel free to reach out!
 I'll be sharing my projects, experiences, and learnings here. So, dive in and feel free to explore!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matcham89&theme=dark)](https://github.com/Matcham89/github-readme-stats) ![pompo-the-cinephile-typing-fast (1)](https://github.com/Matcham89/Matcham89/assets/87593715/4b4fc0df-fc20-4e4d-989e-62bceb573020)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matcham89&theme=dark)](https://github.com/Matcham89/github-readme-stats)
 
