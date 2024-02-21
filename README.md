@@ -13,7 +13,6 @@ I'm a Google Cloud Engineer passionate about building scalable, secure, and auto
 
 **Beyond the code:**
 
-* Active contributor to open-source projects, always looking to learn and share.
 * Enjoys devouring technical documentation and blog posts to stay ahead of the curve.
 * Open to collaboration and discussions on all things cloud!
 
