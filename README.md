@@ -1,4 +1,6 @@
-## Hey there, I'm Chris!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Matcham89.Matcham89page.id&left_color=green&right_color=red)
+
+## Hello World, I'm Chris!
 
 I'm a Google Cloud Engineer passionate about building scalable, secure, and automated cloud solutions. I spend my days wrangling clusters with Kubernetes, navigating the vastness of Google Cloud, and crafting beautiful pipelines with CI/CD tools.
 
