@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Matcham89/count.svg)  ![pompo-the-cinephile-typing-fast (1)](https://github.com/Matcham89/Matcham89/assets/87593715/4b4fc0df-fc20-4e4d-989e-62bceb573020)
-
 
 [![My Skills](https://skillicons.dev/icons?i=bash,gcp,git,grafana,kubernetes,terraform,vscode)](https://skillicons.dev)
 
