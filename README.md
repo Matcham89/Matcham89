@@ -24,4 +24,4 @@ My Tech Playground:
 * Terraform: IaC wizardry to keep things consistent and predictable.
 * CI/CD Tools: Streamlining development processes so code goes from idea to production in record time.
 
-When I'm not in front of a screen, I'm probably exploring Calgary, tinkering with side projects, or dreaming up the next blog post. Stick around for tips, tutorials, and the occasional tech rant!
+When I'm not in front of a screen, I'm probably exploring Calgary, tinkering with side projects.
