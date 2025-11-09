@@ -1,27 +1,43 @@
+[![My Skills](https://skillicons.dev/icons?i=bash,gcp,aws,git,grafana,kubernetes,terraform,docker,vscode,github)](https://skillicons.dev)
 
+## Hey there! 👋 I'm Chris
 
-[![My Skills](https://skillicons.dev/icons?i=bash,gcp,git,grafana,kubernetes,terraform,vscode)](https://skillicons.dev)
+**Senior SRE | Cloud & Platform Engineer | Content Creator**
 
+I'm a Platform Engineer with 5+ years of experience turning cloud chaos into beautifully orchestrated infrastructure. 🌤️ By day, I wrangle Kubernetes clusters and build self-service platforms at [Tempo.io](https://tempo.io). By night, I create educational content about Cloud, Kubernetes, and AI over on my [YouTube channel](https://www.youtube.com/@chrismatcham) and [blog](https://chrismatcham.dev).
 
-Hey there! 👋 I'm Chris, a Google Cloud Engineer with a knack for turning chaotic clouds into well-orchestrated skies. 🌤️ When I'm not herding Kubernetes clusters or automating pipelines, you’ll find me exploring new tools, tweaking my setups, or occasionally celebrating when a CI/CD workflow works on the first try (rare, but it happens!).
-A Few Things About Me:
+### 🚀 What I'm Up To
 
-💻 Cloud Whisperer: I thrive on building scalable, secure, and automated solutions that make the cloud behave just right.
+* 🔧 Building production-grade platforms with **GKE, FluxCD, and Terraform**
+* 📊 Crafting observability solutions with **Grafana, Prometheus & Loki**
+* 🤖 Exploring **MLOps, AI Agents, and Model Context Protocol (MCP)**
+* 🎥 Teaching Cloud & Kubernetes concepts through bite-sized tutorials
+* ☕ Drinking coffee while debugging YAML (it's a lifestyle)
 
-🔧 K8s Tinkerer: From Helm charts to secrets management, Kubernetes is my playground.
+### 💼 Experience Highlights
 
-📊 Grafana Fan: Turning boring metrics into dashboards that even non-techies can appreciate.
+* Migrated platform management from ArgoCD → FluxCD (living dangerously! 😅)
+* Consolidated 5 clusters down to 3, because less is more
+* Built unified incident management platforms (goodbye, legacy tools!)
+* Automated all the things with **GitHub Actions, CircleCI & Cloud Build**
+* Terraform'd 500+ repos into submission
 
-🐚 Bash Believer: For when I need to automate all the things.
+### 🎓 Certifications (Yes, I Collected Them All)
 
-☕ Code & Coffee Enthusiast: Fuel for the brain while debugging YAML files and pipelines.
+* Google Cloud Professional Architect ☁️
+* CKA | CKAD | KCNA | KCSA (Kubernetes royalty 👑)
+* VMware VCP x3 (Application Modernization, Network Virtualization, Desktop Mobility)
+* CCNP Security | Cisco Security Architecture
 
-My Tech Playground:
+### 🛠️ My Tech Stack
 
-* Kubernetes: Managing containers like they’re my favorite pets (they kind of are).
-* Google Cloud Platform: Where the magic of scalability and reliability happens.
-* Helm: Because who doesn’t love neat package management?
-* Terraform: IaC wizardry to keep things consistent and predictable.
-* CI/CD Tools: Streamlining development processes so code goes from idea to production in record time.
+**Cloud & Infrastructure:** GCP, AWS, Kubernetes, Docker, Helm, FluxCD, ArgoCD  
+**IaC & Automation:** Terraform, GitHub Actions, CircleCI, Cloud Build  
+**Observability:** Grafana, Prometheus, Loki  
+**Emerging Tech:** MLOps, AI Agents, Model Context Protocol
 
-When I'm not in front of a screen, I'm probably exploring Calgary, tinkering with side projects.
+### 🌎 Beyond the Terminal
+
+When I'm not shipping infrastructure or recording videos, you'll find me exploring Calgary with my family, tinkering with my homelab, or planning my next YouTube tutorial. Always open to connecting with fellow cloud engineers and content creators!
+
+📫 **Let's Connect:** [Blog](https://chrismatcham.dev) | [LinkedIn](https://linkedin.com/in/christophermatcham)
