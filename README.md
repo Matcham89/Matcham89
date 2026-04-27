@@ -4,7 +4,7 @@
 
 **Senior SRE | Cloud & Platform Engineer | Content Creator**
 
-I'm a Platform Engineer with 5+ years of experience turning cloud chaos into beautifully orchestrated infrastructure. 🌤️ By day, I wrangle Kubernetes clusters and build self-service platforms at [Tempo.io](https://tempo.io). By night, I create educational content about Cloud, Kubernetes, and AI over on my [YouTube channel](https://www.youtube.com/@chrismatcham) and [blog](https://chrismatcham.dev).
+I'm a Platform Engineer with 6+ years of experience turning cloud chaos into beautifully orchestrated infrastructure. 🌤️ By day, I wrangle Kubernetes clusters and build self-service platforms at [Tempo.io](https://tempo.io). By night, I create educational content about Cloud, Kubernetes, and AI over on my [YouTube channel](https://www.youtube.com/@chrismatcham) and [blog](https://chrismatcham.dev).
 
 ### 🚀 What I'm Up To
 
